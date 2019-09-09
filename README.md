@@ -52,3 +52,9 @@ The Azure marketplace has a full category for blockchain infrastructure and solu
 Complete solutions driven primary by the community with input from Microsoft Engineering team. These samples have complete instructions for deployment.
 
 [Community Samples](https://github.com/Azure-Samples/bc-community-samples)
+
+## BlockTalk
+
+A web podcast series of bite size content (5-10 mins) on specific areas of blockchain development and deployment.
+
+[Channel 9 Videos](https://aka.ms/blocktalk)
