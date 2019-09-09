@@ -65,3 +65,9 @@ Azure's extensive blog where updates come in fast and furious across the full es
 This links to the blockchain category where updates, launches, and future work are described. 
 
 [Azure Blockchain Blog](https://azure.microsoft.com/en-us/blog/topics/blockchain/)
+
+## Microsoft Azure Blockchain Page 
+
+Microsoft's blockchain landing page with links out to various materials including case studies. 
+
+[Microsoft Blockchain Page](https://azure.microsoft.com/en-us/solutions/blockchain/) 
