@@ -43,18 +43,25 @@ This is an extension for VS Code that is targetted at developers that looking to
 
 ## Azure templates for many chains
 
-The Azure marketplace has a full category for blockchain infrastructure and solutions in a single click model.  All cloud based and parameterized for customization.
+The Azure marketplace has a full category for blockchain infrastructure and solutions in a single click deployment model.  All cloud based and parameterized for customization. This includes variants of Ethereum, Hyperledger Fabric, and Corda as well as many other blockchain stacks. 
 
 [Azure Marketplace for Blockchain](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/category/blockchain?page=1)
 
 ## Community Samples
 
-Complete solutions driven primary by the community with input from Microsoft Engineering team. These samples have complete instructions for deployment.
+Complete solutions driven primarily by the community with input from the Microsoft Engineering team. These samples have complete instructions for deployment.
 
 [Community Samples](https://github.com/Azure-Samples/bc-community-samples)
 
-## BlockTalk
+## BlockTalk - Youtube video series 
 
 A web podcast series of bite size content (5-10 mins) on specific areas of blockchain development and deployment.
 
 [Channel 9 Videos](https://aka.ms/blocktalk)
+
+## Azure Blog - Blockchain Category 
+
+Azure's extensive blog where updates come in fast and furious across the full estate of services in the Azure cloud. 
+This links to the blockchain category where updates, launches, and future work are described. 
+
+[Azure Blockchain Blog](https://azure.microsoft.com/en-us/blog/topics/blockchain/)
